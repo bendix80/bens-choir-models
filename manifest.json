@@ -1,13 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "baseURL": "https://github.com/bendix80/bens-choir-models/releases/download",
+  "thumbnailsURL": "https://github.com/bendix80/bens-choir-models/releases/download/base-v1/thumbnails.zip",
   "base": [
     {
       "id": "hubert",
       "displayName": "HuBERT",
-      "description": "Feature Extraction (Pflicht)",
-      "descriptionEN": "Feature Extraction (required)",
-      "fileName": "hubert_base.onnx",
       "targetPath": "hubert/hubert_base.onnx",
       "tag": "base-v1",
       "asset": "hubert_base.onnx.zip",
@@ -16,9 +14,6 @@
     {
       "id": "rmvpe",
       "displayName": "RMVPE",
-      "description": "Pitch-Erkennung (Pflicht)",
-      "descriptionEN": "Pitch Detection (required)",
-      "fileName": "rmvpe.onnx",
       "targetPath": "rmvpe/rmvpe.onnx",
       "tag": "base-v1",
       "asset": "rmvpe.onnx.zip",
