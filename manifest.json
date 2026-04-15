@@ -35,7 +35,15 @@
       "descriptionEN": "Bass/Baritone, deep, smooth",
       "tag": "profiles-v1",
       "asset": "james.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "young",
+      "sound": [
+        "clean",
+        "chesty"
+      ],
+      "style": [
+        "pop"
+      ]
     },
     {
       "id": "georg",
@@ -51,7 +59,16 @@
       "descriptionEN": "Baritone, powerful",
       "tag": "profiles-v1",
       "asset": "georg.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "old",
+      "sound": [
+        "raspy",
+        "lisp"
+      ],
+      "style": [
+        "pop",
+        "rock"
+      ]
     },
     {
       "id": "ben",
@@ -67,11 +84,20 @@
       "descriptionEN": "Baritone, natural",
       "tag": "profiles-v1",
       "asset": "ben.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "midage",
+      "sound": [
+        "clean",
+        "chesty"
+      ],
+      "style": [
+        "pop",
+        "rock"
+      ]
     },
     {
-      "id": "ben_breathy",
-      "displayName": "Ben (Breathy)",
+      "id": "stuart",
+      "displayName": "Stuart",
       "gender": "male",
       "category": "baritone",
       "sampleRate": 48000,
@@ -79,11 +105,20 @@
       "rangeHigh": "G4",
       "medianPitch": "B3",
       "medianHz": 247,
-      "description": "Bariton, hauchig",
-      "descriptionEN": "Baritone, breathy",
+      "description": "Bariton, weich, hauchig",
+      "descriptionEN": "Baritone, smooth, airy",
       "tag": "profiles-v1",
-      "asset": "ben_breathy.zip",
-      "sizeMB": 55
+      "asset": "stuart.zip",
+      "sizeMB": 55,
+      "age": "midage",
+      "sound": [
+        "smooth",
+        "airy",
+        "heady"
+      ],
+      "style": [
+        "pop"
+      ]
     },
     {
       "id": "steven",
@@ -99,7 +134,16 @@
       "descriptionEN": "Baritone, warm, studio",
       "tag": "profiles-v1",
       "asset": "steven.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "midage",
+      "sound": [
+        "smooth",
+        "clean"
+      ],
+      "style": [
+        "pop",
+        "rock"
+      ]
     },
     {
       "id": "thomas",
@@ -115,7 +159,16 @@
       "descriptionEN": "Tenor, versatile",
       "tag": "profiles-v1",
       "asset": "thomas.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "young",
+      "sound": [
+        "raspy",
+        "chesty"
+      ],
+      "style": [
+        "rock",
+        "pop"
+      ]
     },
     {
       "id": "tom",
@@ -131,7 +184,17 @@
       "descriptionEN": "Tenor, cool, R&B",
       "tag": "profiles-v1",
       "asset": "tom.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "midage",
+      "sound": [
+        "rough",
+        "straight"
+      ],
+      "style": [
+        "pop",
+        "rock",
+        "rap"
+      ]
     },
     {
       "id": "july",
@@ -147,7 +210,16 @@
       "descriptionEN": "Mezzo-soprano, elegant",
       "tag": "profiles-v1",
       "asset": "july.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "teen",
+      "sound": [
+        "smooth",
+        "airy",
+        "soft"
+      ],
+      "style": [
+        "pop"
+      ]
     },
     {
       "id": "lucy",
@@ -163,7 +235,16 @@
       "descriptionEN": "Mezzo-soprano, young, bright",
       "tag": "profiles-v1",
       "asset": "lucy.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "child",
+      "sound": [
+        "sweet",
+        "clean",
+        "soft"
+      ],
+      "style": [
+        "pop"
+      ]
     },
     {
       "id": "casey",
@@ -179,7 +260,16 @@
       "descriptionEN": "Soprano, warm, powerful",
       "tag": "profiles-v1",
       "asset": "casey.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "young",
+      "sound": [
+        "chesty",
+        "straight"
+      ],
+      "style": [
+        "pop",
+        "rock"
+      ]
     },
     {
       "id": "lina",
@@ -195,7 +285,16 @@
       "descriptionEN": "Soprano, gentle",
       "tag": "profiles-v1",
       "asset": "lina.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "young",
+      "sound": [
+        "soft",
+        "smooth",
+        "heady"
+      ],
+      "style": [
+        "pop"
+      ]
     },
     {
       "id": "choir",
@@ -211,7 +310,17 @@
       "descriptionEN": "Female choir, ensemble",
       "tag": "profiles-v1",
       "asset": "choir.zip",
-      "sizeMB": 55
+      "sizeMB": 55,
+      "age": "midage",
+      "sound": [
+        "soft",
+        "heady",
+        "smooth"
+      ],
+      "style": [
+        "pop",
+        "classical"
+      ]
     }
   ]
 }
