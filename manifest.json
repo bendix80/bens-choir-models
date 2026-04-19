@@ -80,7 +80,7 @@
       "rangeHigh": "G#4",
       "medianPitch": "B3",
       "medianHz": 247,
-      "description": "Bariton, natürlich",
+      "description": "Bariton, nat\u00fcrlich",
       "descriptionEN": "Baritone, natural",
       "tag": "profiles-v1",
       "asset": "ben.zip",
@@ -93,31 +93,6 @@
       "style": [
         "pop",
         "rock"
-      ]
-    },
-    {
-      "id": "stuart",
-      "displayName": "Stuart",
-      "gender": "male",
-      "category": "baritone",
-      "sampleRate": 48000,
-      "rangeLow": "E3",
-      "rangeHigh": "G4",
-      "medianPitch": "B3",
-      "medianHz": 247,
-      "description": "Bariton, weich, hauchig",
-      "descriptionEN": "Baritone, smooth, airy",
-      "tag": "profiles-v1",
-      "asset": "stuart.zip",
-      "sizeMB": 55,
-      "age": "midage",
-      "sound": [
-        "smooth",
-        "airy",
-        "heady"
-      ],
-      "style": [
-        "pop"
       ]
     },
     {
@@ -256,7 +231,7 @@
       "rangeHigh": "C5",
       "medianPitch": "E4",
       "medianHz": 330,
-      "description": "Soprano, warm, kräftig",
+      "description": "Soprano, warm, kr\u00e4ftig",
       "descriptionEN": "Soprano, warm, powerful",
       "tag": "profiles-v1",
       "asset": "casey.zip",
